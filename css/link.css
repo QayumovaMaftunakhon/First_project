@@ -1,0 +1,118 @@
+body{
+    background-color: rgb(242, 250, 255);
+}
+#ik{
+    width: 28px;
+    height: 28px;
+}
+#text1{
+    margin-left: 50px;
+    margin-top: -36px;
+    font-family: Malgun Gothic;
+    color: rgb(239, 241, 248);
+
+}
+#main{
+    width: 450px;
+    height: 490px;
+    margin-left: 760px;
+    margin-top: -50px;
+    margin-top: 0.001%;
+}
+#text2{
+    margin-top: 10%;
+    margin-left: 6%;
+    font-size: 500%;
+    font-family: Malgun Gothic;
+    color: rgb(255, 255, 255);
+ 
+}
+#text2. {
+    margin-top: 10%;
+    margin-left: 6%;
+    font-size: 500%;
+    font-family: Malgun Gothic;
+    color: rgb(255, 255, 255);
+ 
+}
+
+
+#text3{
+    margin-top: -30px;
+    margin-left: 35px;
+    font-size: 30px;
+    font-family: Malgun Gothic;
+    color: rgb(239, 239, 240);
+}
+#text4{
+    text-align: center;
+    font-weight: 25%;
+    font-family: 'Times New Roman';
+    color: rgb(24, 31, 37);
+    margin-top: 25%;
+    }
+    .block1{
+        width: 300px;
+        height: 200px;
+        margin-left: 6%;
+        background: white;
+        border-radius: 20px;
+    }
+    #phone{
+        margin-left: 25px;
+        margin-top: 20px;
+    }
+    #text5{
+        font-family: Malgun Gothic;
+        text-align: center;
+        color: rgb(23, 43, 36);
+    }
+    #text6{
+        font-family: Calibri;
+        text-align: center;
+        color: rgb(155, 185, 175);
+    }
+    .block2{
+        width: 300px;
+        height: 200px;
+        margin-left: 42%;
+        margin-top: -11%;
+        background: rgb(155, 185, 175);
+        border-radius: 20px;
+    }
+    #lap{
+        margin-left: 25px;
+        margin-top: 10px;
+    }
+    #text7{
+        font-family: Calibri;
+        text-align: center;
+        margin-top: 10px;
+        color: rgb(42, 53, 66);
+    }
+    .block3{
+        width: 300px;
+        height: 200px;
+        margin-left: 75%;
+        margin-top: -10%;
+        background: white;
+        border-radius: 20px;
+    }
+    #btn_1{
+        width: 150px;
+        height: 50px;
+        border-radius: 23px;
+        border: 5px solid white;
+        background-color: white;
+        font-size: 20px;
+        margin-left: 100px;
+    }
+    #btn_2{
+        width: 150px;
+        height: 50px;
+        border-radius: 23px;
+        border: 7px solid white;
+        background-color: rgb(256, 255, 255, 0.5);
+        font-size: 20px;
+        margin-left: 30px;
+    }
